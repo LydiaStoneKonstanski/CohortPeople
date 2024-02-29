@@ -1,4 +1,4 @@
-package zipcode.rocks;
+package test.java.zipcode.rocks;
 
 import static org.junit.Assert.assertTrue;
 
